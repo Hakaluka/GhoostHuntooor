@@ -3,8 +3,8 @@ Become a ghost hunter and literally kill the ghost with a sword and gun.
 After making this I am a bit of dead in the head atm, please ignore me    
 
 access the game build   
-Win64-[here](https://drive.google.com/file/d/1bA8DUO3kkIM3NmAZGnM9vXa2000jKqEP/view?usp=sharing) 
-(note:- i will be adding a linux based build also but it is taking forever for unity hub  to download the modules for it.)     
+Win64-[here](https://drive.google.com/file/d/1bA8DUO3kkIM3NmAZGnM9vXa2000jKqEP/view?usp=sharing)   
+linux based build on the git hub page(i have not checked how well it works as i dont have any linux distro installed on our lap at the moment so it the output unity's build system gave us)  
 
 # Controls :-  
 use 2 controllers and press any key in both of them    
