@@ -3,9 +3,7 @@ Become a ghost hunter and literally kill the ghost with a sword and gun.
 After making this I am a bit of dead in the head atm, please ignore me    
 
 access the game build   
-<<<<<<< HEAD
-Win64-[here](https://drive.google.com/file/d/1bA8DUO3kkIM3NmAZGnM9vXa2000jKqEP/view?usp=sharing)   
-=======
+
 Win64- on the page
 >>>>>>> 41165c7 (i don't know im doing but hoping that it works)
 linux based build on the git hub page(i have not checked how well it works as i dont have any linux distro installed on our lap at the moment so it the output unity's build system gave us)  
