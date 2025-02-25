@@ -5,7 +5,7 @@ After making this I am a bit of dead in the head atm, please ignore me
 access the game build   
 
 Win64- on the page
->>>>>>> 41165c7 (i don't know im doing but hoping that it works)
+
 linux based build on the git hub page(i have not checked how well it works as i dont have any linux distro installed on our lap at the moment so it the output unity's build system gave us)  
 
 # Controls :-  
